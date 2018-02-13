@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762809283639",
+    "firebase_url": "https://wheresmycentre.firebaseio.com",
+    "project_id": "wheresmycentre",
+    "storage_bucket": "wheresmycentre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762809283639:android:74612d8e7decdc32",
+        "android_client_info": {
+          "package_name": "com.darukhanawalla.aamir.wheresmycentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762809283639-atqg8q43ipnn7mk9o5qd2nffjvu9ujqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darukhanawalla.aamir.wheresmycentre",
+            "certificate_hash": "1e91a15bd4cfe1d2f10c3b06efd7b0f1a740a018"
+          }
+        },
+        {
+          "client_id": "762809283639-5d9b4f8hca14le5n2l55cjtmr784vsi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKTgP8kCgAHc284HzSKH3p_rQ5dkEgcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762809283639-5d9b4f8hca14le5n2l55cjtmr784vsi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
